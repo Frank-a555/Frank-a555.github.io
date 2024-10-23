@@ -5,16 +5,16 @@ description: "Hey, this is Bugatti."
 header-img: "3eav3ke0vjd.jpg"
 ---
 
-<-- Language Selector -->
-<-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
+<!-- Language Selector -->
+<!-- <select class="sel-lang" onchange= "onLanChange(this.options[this.options.selectedIndex].value)">
     <option value="0" selected> 中文 Chinese </option>
     <option value="1"> 英文 English </option>
 </select> -->
 
-<-- Chinese Version -->
+<!-- Chinese Version -->
 <div class="zh post-container">
 
-    <--copied from markdown -->
+    <!--copied from markdown -->
     <blockquote><p>傲视群雄 走向辉煌<br>
     一步一个脚印 实现梦想</p></blockquote>
 
@@ -26,7 +26,7 @@ header-img: "3eav3ke0vjd.jpg"
 
 </div>
 
-<-- English Version -->
+<!-- English Version -->
 <-- <div class="en post-container">
     <blockquote><p>To the glory of the world <br>
     One step at a time, realising a dream.</p></blockquote>
