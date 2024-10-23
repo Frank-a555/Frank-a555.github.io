@@ -6,8 +6,7 @@ email: zaohuanr555@gmail.com
 description: "Every failure is leading towards success."
 keyword: "My Space, 布加迪的历史与发展"
 url: "http://Frank-a555.github.io"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/Frank-a555/Frank-a555.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -31,24 +30,12 @@ gems: [jekyll-paginate]
 
 
 
-
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
-
-
-
 # Gitalk
 gitalk:
   enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
+  repo: Frank-a555.github.io    #仓库名称
   owner: Frank-a555    #github用户名
   admin: Frank-a555
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -63,7 +50,7 @@ ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 
 # Featured Tags
-featured-tags: true                     # 是否使用首页标签
+featured-tags: false                     # 是否使用首页标签
 featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
 
 
